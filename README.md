@@ -1,2 +1,2 @@
 # Eris
-Eris Compiler [Functional Programming Language] (C23 / GNU extension + Parquet)
+Eris Compiler (C23 / GNU extension + Parquet) [Functional Programming Language]
